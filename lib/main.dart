@@ -58,7 +58,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  bool _isLoggedIn = false; // Track login state
+  final bool _isLoggedIn = false; // Track login state
 
   @override
   Widget build(BuildContext context) {
