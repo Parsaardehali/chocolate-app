@@ -38408,9 +38408,9 @@ s=t.w
 r=A.bj(a,p,s).w
 r=A.jM(p,A.ib(A.c([A.cM(A.auM(p,B.er,!1,p,!0,B.I,p,A.aL2(),p,p,p,p,p,p,2,A.lJ(p,new A.dm(4,A.ed(25),new A.aZ(B.lV,1,B.w,-1)),p,B.Dt,p,p,p,p,!0,new A.dm(4,A.ed(25),new A.aZ(B.d4,1,B.w,-1)),p,p,p,p,p,B.me,!0,p,p,p,p,new A.dm(4,A.ed(25),new A.aZ(A.M(a).ax.b,1,B.w,-1)),p,p,p,p,p,p,p,p,p,"Search...",p,p,p,p,p,p,p,p,p,!0,!0,p,B.nl,p,p,p,p,p,p,p,p,p,p,p,p),B.ab,!0,p,!0,p,!1,p,B.dG,p,p,p,p,p,p,p,p,1,p,p,!1,"\u2022",p,new A.aio(),p,p,p,!1,p,p,!1,p,!0,p,B.mI,p,p,p,p,p,p,p,p,p,p,p,p,!0,B.b0,p,B.yM,p,p,p,p),p,r.a.a*0.7)],m),B.ag,B.di,B.a7),B.A,p,p,p,p,p,p,B.mG,p,p,p)
 q=A.bj(a,p,s).w
-q=A.f5(A.cM(this.JR("img1.jpg","Blog Post Title 1","This is a description of the first blog post. It contains interesting information about our products."),p,q.a.a*0.8),p,p)
+q=A.f5(A.cM(this.JR("assets/img1.jpg","Blog Post Title 1","This is a description of the first blog post. It contains interesting information about our products."),p,q.a.a*0.8),p,p)
 s=A.bj(a,p,s).w
-s=A.auB(A.c([q,B.hK,A.f5(A.cM(this.JR("img2.jpg","Blog Post Title 2","This is a description of the second blog post. Discover more about what we offer."),p,s.a.a*0.8),p,p)],m),!0,!0,!0)
+s=A.auB(A.c([q,B.hK,A.f5(A.cM(this.JR("assets/img2.jpg","Blog Post Title 2","This is a description of the second blog post. Discover more about what we offer."),p,s.a.a*0.8),p,p)],m),!0,!0,!0)
 return A.a8p(new A.JU(n,B.No,p),A.eK(A.c([o,r,A.lw(new A.J1(s,B.mH,B.az,!1,p,p,B.lq,!1,p,3,B.ab,p,p,B.I,B.ah,p),1)],m),B.ag,B.T,B.a7))},
 JR(a,b,c){var s=null,r=t.p
 return A.IL(!1,!0,new A.GA(4,new A.ch(A.ed(12),B.q),A.eK(A.c([new A.GP(B.zW,A.asV(a,new A.aif(),B.lA,200,1/0),s),new A.bE(B.mH,A.eK(A.c([A.de(b,s,s,s,B.RS,s,s,s),B.Nu,A.de(c,s,s,s,A.fX(s,s,B.c3,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s)],r),B.bj,B.T,B.a7),s)],r),B.bj,B.T,B.a7),s),s,!0,s,s,s,s,s,s,s,new A.aig(this,b,a,c),s,s,s)}}
