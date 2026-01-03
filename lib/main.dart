@@ -205,7 +205,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   child: SizedBox(
                     width: MediaQuery.of(context).size.width * 0.8,
                     child: _buildBlogPost(
-                      'img1.jpg',
+                      'assets/img1.jpg',
                       'Blog Post Title 1',
                       'This is a description of the first blog post. It contains interesting information about our products.',
                     ),
@@ -216,7 +216,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   child: SizedBox(
                     width: MediaQuery.of(context).size.width * 0.8,
                     child: _buildBlogPost(
-                      'img2.jpg',
+                      'assets/img2.jpg',
                       'Blog Post Title 2',
                       'This is a description of the second blog post. Discover more about what we offer.',
                     ),
