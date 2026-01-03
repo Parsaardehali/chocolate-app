@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Live Demo
+
+**🌐 View the app online:** [https://parsaardehali.github.io/chocolate-app/](https://parsaardehali.github.io/chocolate-app/)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
